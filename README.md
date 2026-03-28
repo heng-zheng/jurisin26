@@ -39,5 +39,3 @@ reject_reason - Reason for rejection when the decision is rejected
 evidence_para_ids_joined - Paragraph ID or IDs supporting the legal proposition
 
 evidence_text - Text of the supporting paragraph or paragraphs
-
-notes - Additional notes from the expert
