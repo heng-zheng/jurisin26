@@ -16,7 +16,7 @@ This repository contains materials for extracting and reviewing legal propositio
 - `final_jurisin_cleaned_public.csv`  
   The dataset containing expert review results of model-generated legal propositions, along with additional propositions identified by the expert after reviewing the Summary of Argument.
 
-## Dataset Columns
+## final_jurisin_cleaned_public.csv Columns
 
 lp_id - Unique identifier for each legal proposition
 
