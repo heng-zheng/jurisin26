@@ -3,7 +3,6 @@
 ## Goal
 
 Review and refine the list of legal propositions (LPs) extracted from the Summary of Argument (SoA).  
-Each LP should be an individual declarative statement of law that the court must adopt, resolve, or reject to reach a holding.
 
 ## Inputs
 
